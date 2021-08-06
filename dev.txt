@@ -1,3 +1,4 @@
 123456789
 new line
-555
+if u 555
+then i 666
